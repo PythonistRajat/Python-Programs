@@ -12,6 +12,6 @@ end_fill()
 
 up()
 setpos(-50,95)
-write('Hey Ms. Hottie\nLove from RAJAT', font = ("Verdana", 10 , "bold"))
+write('Hey', font = ("Verdana", 10 , "bold"))
 
 done()
