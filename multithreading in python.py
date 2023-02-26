@@ -18,12 +18,6 @@ class Hello(Thread):
 t1 = Hi()
 t2 = Hello()
 
-# This execution goes by main thread
-# t1.run()
-# print('Rajat')
-# t2.run()
-# print('Dahiya')
-
 t1.start()
 sleep(0.2)
 t2.start()
